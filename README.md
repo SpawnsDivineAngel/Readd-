@@ -6,6 +6,16 @@ interests ー rainworld, dandys world, vrc, bsd, mo4, hollow knight, madoka, mag
 
 sexuality/gender ー bi / trans
 
+spawnist 
+
 status 
 
-online
+online = int
+
+looking 4 chat = int
+
+away = w2i
+
+busy = iwc / w2i
+
+ask 4 discord
