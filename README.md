@@ -10,8 +10,6 @@ interests ー rainworld, dandys world, vrc, bsd, mo4, hollow knight, madoka, mag
 
 sexuality/gender ー bi / trans
 
-spawnist (Feel free 2 ask about it)
-
 angelkin
 
 status 
@@ -24,4 +22,4 @@ away = w2i
 
 busy = iwc / w2i
 
-Dni: Anti spawnists, Syscourse
+Dni: Syscourse
