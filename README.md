@@ -10,8 +10,6 @@ interests ー rainworld, dandys world, vrc, bsd, mo4, hollow knight, madoka, mag
 
 sexuality/gender ー bi / trans
 
-angelkin
-
 online = int
 
 looking 4 chat = int
