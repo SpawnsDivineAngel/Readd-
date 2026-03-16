@@ -4,6 +4,8 @@ names ー Divine / spawnzy / tenshi
 
 13
 
+system
+
 interests ー rainworld, dandys world, vrc, bsd, mo4, hollow knight, madoka, magical girls.
 
 sexuality/gender ー bi / trans
@@ -22,4 +24,4 @@ away = w2i
 
 busy = iwc / w2i
 
-ask if u want my discord
+Dni: Anti spawnists, Syscourse
