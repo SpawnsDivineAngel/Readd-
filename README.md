@@ -4,7 +4,7 @@ names ー Divine / spawnzy / tenshi
 
 13
 
-system (Look at prns.cc 4 system info)
+system (Look at pronouns.cc 4 system info)
 
 interests ー rainworld, dandys world, vrc, bsd, mo4, hollow knight, madoka, magical girls.
 
