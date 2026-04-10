@@ -2,7 +2,7 @@ names ー tenshi
 
 13
 
-interests ー rainworld, dandys world, vrc, bsd, mo4, hollow knight, madoka, magical girls.
+interests ー rainworld, dandys world, vrc, bsd, mo4, hollow knight, madoka, magical girls, vrc
 
 trans
 
