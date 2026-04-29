@@ -7,5 +7,3 @@ trans
 no dni
 
 add my discord tenshi.crow plspls
-
-pls int if ur 17+
