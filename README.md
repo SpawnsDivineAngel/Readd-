@@ -2,10 +2,6 @@
 
 No dni
 
-trans
+trans (ftm)
 
-Very dumb 🤔
-
-always int 
-
-int if ur 17+ 🥹 pls 
+kemonomimi
